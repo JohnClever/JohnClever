@@ -51,7 +51,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JohnClever&theme=dracula" />
 <br/>
 
-<a href="https://github.com/aframson">
+<a href="https://github.com/JohnClever">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnClever&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a> 
 <br/>
