@@ -1,11 +1,11 @@
 # Hi,  I'm John Clever 
 <br/>
  
-- Javascript Developer | Next JS Developer | Python Developer 
+- Typescript Developer | Next JS Developer | Python Developer 
 
 <br/>
 
-<a href="https://app.daily.dev/Jay0007"><img src="https://api.daily.dev/devcards/e859124a80d6435b942a49f4b29f9d99.png?r=guy" width="400" alt="John Clever's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Jay0007"><img src="https://api.daily.dev/devcards/e859124a80d6435b942a49f4b29f9d99.png?r=guy" width="400" alt="John Clever's Dev Card"/></a> -->
 
 ###  📫 How to reach me:
 
