@@ -6,7 +6,6 @@
 <br/>
 
 <!-- <a href="https://app.daily.dev/Jay0007"><img src="https://api.daily.dev/devcards/e859124a80d6435b942a49f4b29f9d99.png?r=guy" width="400" alt="John Clever's Dev Card"/></a> -->
-https://raw.githubusercontent.com/Blessingdev233/blessingdev233/main/programmer.gif
 ###  📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/john-anyormisi-b271971a3/">  
@@ -44,20 +43,3 @@ https://raw.githubusercontent.com/Blessingdev233/blessingdev233/main/programmer.
 <br/>
 
 
-<div align="left">
- <a href="https://github.com/JohnClever">
- <img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=JohnClever&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-</a> 
-
-</div>
-<br/>
-<a href="https://github.com/JohnClever">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JohnClever&theme=dracula" />
-</a> 
-
-<br/>
-
-<a href="https://github.com/JohnClever">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnClever&layout=compact&theme=dracula&count_private=true&langs_count=10" />
-</a> 
-<br/>
