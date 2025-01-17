@@ -3,13 +3,6 @@
 
 - Typescript Developer | Next JS Developer | Python Developer 
 
-
-
-<a href="https://app.daily.dev/Jay0007"><img src="https://api.daily.dev/devcards/e859124a80d6435b942a49f4b29f9d99.png?r=guy" width="400" alt="John Clever's Dev Card"/></a>
-
-
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
