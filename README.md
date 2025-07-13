@@ -1,7 +1,7 @@
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Clever</h2> -->
 ## 👋 &nbsp;Hey there! I'm Clever
 
-- Typescript Developer | Next JS Developer | Python Developer 
+- Co Founder | Full Stack | Community Person 
 
 ### 🛠 &nbsp;Tech Stack
 
